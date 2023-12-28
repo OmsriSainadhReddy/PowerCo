@@ -19,7 +19,7 @@ First task is to understand what is going on with the client and to think about 
 
 We must formulate the hypothesis as a data science problem and lay out the major steps needed to test this hypothesis. Communicate thoughts and findings in an email to the AD, focusing on the data that we would need from the client and the analytical models we would use to test such a hypothesis.
 
-Mail_to_AD is the file which has solution for this task.
+<b> Mail_to_AD is the file that has the solution for this task. </b>
 
 Please note, there are multiple ways to approach the task and my solution is just one way to do it.
 
