@@ -11,8 +11,8 @@ Your AD wants an email with thoughts on how the team should go about testing thi
 
 The client plans to use the predictive model on the 1st working day of every month to indicate to which customers the 20% discount should be offered.
 
-* client_data and price_data are two datasets sent by the client for analysis.
-* Data Description file is the data dictionary for the columns in the above two datasets.
+client_data and price_data are two datasets sent by the client for analysis.
+Data Description file is the data dictionary for the columns in the above two datasets.
 
 ## TASK 1:
 First task is to understand what is going on with the client and to think about how you would approach this problem and test the specific hypothesis.
