@@ -19,3 +19,28 @@ We must formulate the hypothesis as a data science problem and lay out the major
 Mail_to_AD is the file which has solution for this task.
 
 Please note, there are multiple ways to approach the task and my solution is just one way to do it.
+
+## TASK 2
+The project team thinks that building a churn model to understand whether price sensitivity is the largest driver of churn has potential. The client has sent over some data and the AD wants us to perform some exploratory data analysis.
+
+The data that was sent over includes:
+
+Historical customer data: Customer data such as usage, sign up date, forecasted usage etc
+Historical pricing data: variable and fixed pricing data etc
+Churn indicator: whether each customer has churned or not
+
+Sub-Task 1:
+
+Perform some exploratory data analysis. Look into the data types, data statistics, specific parameters, and variable distributions. This first subtask is for us to gain a holistic understanding of the dataset. 
+
+Sub-Task 2:
+
+Verify the hypothesis of price sensitivity being to some extent correlated with churn. It is up to us to define price sensitivity and calculate it.
+
+
+Sub-Task 3:
+
+Prepare a half-page summary or slide of key findings and add some suggestions for data augmentation – which other sources of data should the client provide you with and which open source datasets might be useful? 
+
+eda_starter and  eda_starter has the python code for the analysis that has been performed.
+
