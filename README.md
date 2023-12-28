@@ -11,6 +11,9 @@ Your AD wants an email with thoughts on how the team should go about testing thi
 
 The client plans to use the predictive model on the 1st working day of every month to indicate to which customers the 20% discount should be offered.
 
+* client_data and price_data are two datasets sent by the client for analysis.
+* Data Description file is the data dictionary for the columns in the above two datasets.
+
 ## TASK 1:
 First task is to understand what is going on with the client and to think about how you would approach this problem and test the specific hypothesis.
 
@@ -25,22 +28,22 @@ The project team thinks that building a churn model to understand whether price 
 
 The data that was sent over includes:
 
-Historical customer data: Customer data such as usage, sign up date, forecasted usage etc
-Historical pricing data: variable and fixed pricing data etc
+Historical customer data: Customer data such as usage, sign-up date, forecasted usage, etc
+Historical pricing data: variable and fixed pricing data, etc
 Churn indicator: whether each customer has churned or not
 
 Sub-Task 1:
 
-Perform some exploratory data analysis. Look into the data types, data statistics, specific parameters, and variable distributions. This first subtask is for us to gain a holistic understanding of the dataset. 
+Perform some exploratory data analysis. Look into the data types, data statistics, specific parameters, and variable distributions. This first subtask is for us to understand the dataset holistically. 
 
 Sub-Task 2:
 
-Verify the hypothesis of price sensitivity being to some extent correlated with churn. It is up to us to define price sensitivity and calculate it.
+Verify the hypothesis of price sensitivity being, to some extent, correlated with churn. It is up to us to define price sensitivity and calculate it.
 
 
 Sub-Task 3:
 
-Prepare a half-page summary or slide of key findings and add some suggestions for data augmentation – which other sources of data should the client provide you with and which open source datasets might be useful? 
+Prepare a half-page summary or slide of key findings and add some suggestions for data augmentation – which other data sources should the client provide you with, and which open-source datasets might be useful? 
 
-eda_starter and  eda_starter has the python code for the analysis that has been performed.
+eda_starter and summary_suggestions are the deliverable files for this task. eda_starter has the Python code for the analysis performed, and summary_suggestions has the summary of EDA findings and suggestions for the client.
 
