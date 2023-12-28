@@ -11,7 +11,7 @@ Your AD wants an email with thoughts on how the team should go about testing thi
 
 The client plans to use the predictive model on the 1st working day of every month to indicate to which customers the 20% discount should be offered.
 
-TASK 1:
+## TASK 1:
 First task is to understand what is going on with the client and to think about how you would approach this problem and test the specific hypothesis.
 
 We must formulate the hypothesis as a data science problem and lay out the major steps needed to test this hypothesis. Communicate thoughts and findings in an email to the AD, focusing on the data that we would need from the client and the analytical models we would use to test such a hypothesis.
