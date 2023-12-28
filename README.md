@@ -1,4 +1,4 @@
-# PowerCo
+# PowerCo Data Assessment
 PowerCo is a major gas and electricity utility that supplies to corporate, SME (Small & Medium Enterprise), and residential customers. The power liberalization of the energy market in Europe has led to significant customer churn, especially in the SME segment. They have partnered with us to help diagnose the source of churning SME customers.
 
 A fair hypothesis is that price changes affect customer churn. Therefore, knowing which customers are more (or less) likely to churn at their current price is helpful, for which a good predictive model could be useful.
