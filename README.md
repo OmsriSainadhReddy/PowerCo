@@ -5,7 +5,7 @@ A fair hypothesis is that price changes affect customer churn. Therefore, knowin
 
 Moreover, for those customers who are at risk of churning, a discount might incentivize them to stay with our client. The head of the SME division is considering a 20% discount that is considered large enough to dissuade almost anyone from churning (especially those for whom price is the primary concern).
 
-The Associate Director (AD) held an initial team meeting to discuss various hypotheses, including churn due to price sensitivity. After a discussion with the team, we have been asked to go deeper on the hypothesis that the churn is driven by the customers’ price sensitivities. 
+The Associate Director (AD) held an initial team meeting to discuss various hypotheses, including churn due to price sensitivity. After a discussion with the team, we have been asked to go deeper on the hypothesis that the customers’ price sensitivities drive the churn. 
 
 Your AD wants an email with thoughts on how the team should go about testing this hypothesis.
 
@@ -18,8 +18,8 @@ Data Description file is the data dictionary for the columns in the above two da
 First task is to understand what is going on with the client and to think about how you would approach this problem and test the specific hypothesis.
 
 We must formulate the hypothesis as a data science problem and lay out the major steps needed to test this hypothesis. Communicate thoughts and findings in an email to the AD, focusing on the data that we would need from the client and the analytical models we would use to test such a hypothesis.
-
-<b> Mail_to_AD is the file that has the solution for this task. </b>
+**
+Mail_to_AD is the file that has the solution for this task.**
 
 Please note, there are multiple ways to approach the task and my solution is just one way to do it.
 
